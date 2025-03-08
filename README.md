@@ -11,6 +11,7 @@ Output Interpretation: If the predicted result is 1, it means the passenger surv
 Here’s what each input field means:
 
 Field Name	Description	Impact on Survival
+
 Pclass (Passenger Class)	Class of the ticket purchased (1st, 2nd, or 3rd)	Higher classes (1st) had a higher survival rate
 Sex	Gender of the passenger (Male/Female)	Females had a higher survival rate than males
 Age	Age of the passenger	Younger passengers had a better chance of survival
